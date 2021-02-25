@@ -12,7 +12,7 @@ To run this sample after building it, press F5 (run with debugging enabled) or C
 
 
 ## GUI-Layout
-![](./KV-Host UWP.PNG)
+![](./KV-Host-UWP.PNG)
 
 
 ## References
